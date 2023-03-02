@@ -7,3 +7,4 @@
 4. if we learn how all users in github name and arrange their folders, files, etc. Can we make a knowledge graph that 
    could automatically arrange the knowledge approximately?
 5. AI could be the UI tester?
+6. If no one is naming those weird terms, we could easily understand most part of the papers.
