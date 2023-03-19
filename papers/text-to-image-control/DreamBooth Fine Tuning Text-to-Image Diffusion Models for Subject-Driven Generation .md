@@ -7,6 +7,17 @@ https://arxiv.org/pdf/2208.12242.pdf
 
 </p>
 
+SubLink
+===============
+<p>
+
+Learning Transferable Visual Models From Natural Language Supervision
+https://arxiv.org/pdf/2103.00020.pdf
+
+Contrastive Representation Learning: A Framework and Review
+https://arxiv.org/ftp/arxiv/papers/2010/2010.05113.pdf
+
+</p>
 
 Questions From The Paper
 ===============
