@@ -1,5 +1,12 @@
-In ModolKid project, we want to generate images with kids doing a lot of activities from 
-face shot to long-range shot. Dreambooth technique is able to help with generating beautiful 
-face shot, but having difficulties with the mid-range and long-range shot. 
+Project
+===============
+The project is about using AI to generate Story book for 4-10 years old kid
 
-These researches are about solving this issue. 
+Research Purpose 
+===============
+Generate Kids images with different poses, styles, accessories, backgrounds, etc.
+
+Research Difficulties
+===============
+Unable to generate the mid-range and long-range shot of images with kids in the images. 
+
