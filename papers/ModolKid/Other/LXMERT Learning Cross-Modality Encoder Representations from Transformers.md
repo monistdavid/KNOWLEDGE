@@ -14,7 +14,7 @@ Questions From The Paper
 ===============
 
 
-Additional Quesions and Personal Thoughts Based on little RESEARCH
+Additional Questions and Personal Thoughts Based on little RESEARCH
 ===============
         
 

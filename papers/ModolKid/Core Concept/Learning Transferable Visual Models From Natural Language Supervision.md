@@ -19,7 +19,7 @@ Questions From The Paper
 ===============
 
 
-Additional Quesions and Personal Thoughts Based on little RESEARCH
+Additional Questions and Personal Thoughts Based on little RESEARCH
 ===============
     1. why it is the language model come out first instead of image model, audio model or video model:
         And which of the following has the most information:
