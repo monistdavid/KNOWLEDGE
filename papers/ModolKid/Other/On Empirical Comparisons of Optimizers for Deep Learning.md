@@ -10,9 +10,5 @@ https://arxiv.org/pdf/1910.05446.pdf
 Summary
 ===============
 
-Questions and Thoughts Based on little RESEARCH
-===============
-        
-
-Creativity
-==============
+    This paper gives a scientific method to help choicing between optimizers for deep learning. 
+    It also gives its finding on inclusion relationships between optimizers.

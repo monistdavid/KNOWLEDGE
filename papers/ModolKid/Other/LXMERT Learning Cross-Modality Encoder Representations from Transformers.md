@@ -13,11 +13,3 @@ Summary
     This paper purpose a model sturcture for multi-modality. Including encoder for language
     vision and relation between image and text. It largely improve the model's ability on
     answering image related question.
-
-Questions and Thoughts Based on little RESEARCH
-===============
-
-
-
-Creativity
-==============
