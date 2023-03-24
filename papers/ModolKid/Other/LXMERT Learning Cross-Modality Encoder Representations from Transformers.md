@@ -14,11 +14,7 @@ Summary
     vision and relation between image and text. It largely improve the model's ability on
     answering image related question.
 
-Questions From The Paper
-===============
-
-
-Additional Questions and Personal Thoughts Based on little RESEARCH
+Questions and Thoughts Based on little RESEARCH
 ===============
 
 

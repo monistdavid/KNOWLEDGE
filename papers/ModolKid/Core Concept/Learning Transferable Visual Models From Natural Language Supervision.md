@@ -14,12 +14,7 @@ Summary
     Such a learning gola largely enable the model to understand the latent space of the images and be able to complete
     a lot task without further training (zero shot)
 
-
-Questions From The Paper
-===============
-
-
-Additional Questions and Personal Thoughts Based on little RESEARCH
+Questions and Thoughts Based on little RESEARCH
 ===============
     1. why it is the language model come out first instead of image model, audio model or video model:
         And which of the following has the most information:
