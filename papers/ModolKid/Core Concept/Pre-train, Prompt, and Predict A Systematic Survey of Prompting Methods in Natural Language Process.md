@@ -40,6 +40,15 @@ Questions and Thoughts Based on little RESEARCH
                 Finally, tuning the hyperparameters of these large models can also be a challenging task. 
             Given the sheer number of hyperparameters to tune, it can be difficult to find an optimal set of
             hyperparameters that leads to the best performance.
+       Could a object obtain both deep and broad understanding of the world?
+        From the nature of the world, there is no one could get both, and there are two main reasons:
+            1. the knowledge of the world is getting more and more complex, even the computation power of the 
+                machine or the ability for people to obtain the knowledge is increasing dramatically, it is still
+                impossible for an objet to get both deep and broad understanding of the world.
+            2. the relationship between knowledge is the key factors of understanding and using the knowledge, 
+                if a person have a broad understanding of the world, it is hard for them to connect a specific
+                field of knowledge.
+
         
         
 
@@ -48,3 +57,5 @@ Questions and Thoughts Based on little RESEARCH
 Creativity
 ==============
     1. Making a model that instead of writing a paragraph, draw a paragraph from random direction. 
+    2. The relationship of knowledge maybe is the next key step of AI. Instead of knowing more, AI should be able
+        to connect the knowledge together better. 
