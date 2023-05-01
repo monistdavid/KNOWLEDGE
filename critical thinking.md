@@ -8,3 +8,4 @@
    could automatically arrange the knowledge approximately?
 5. AI could be the UI tester?
 6. If no one is naming those weird terms, we could easily understand most part of the papers.
+7. Gravity seems influence the physical forms of us in earth, what could gravity influence the neuron network?
