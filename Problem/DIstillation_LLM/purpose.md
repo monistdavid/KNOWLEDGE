@@ -1,1 +1,1 @@
-In the Distilling project, we want to decrease the size of the large language model
+we want to decrease the size of the large language model, while remain the performance
