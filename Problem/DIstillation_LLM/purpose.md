@@ -1,1 +1,7 @@
-we want to decrease the size of the large language model, while remain the performance
+Research Motivation
+===============
+Decrease the inference cost
+
+Research Difficulties
+===============
+1. hard to maintain the performance of the large language model if decrease the model size.
