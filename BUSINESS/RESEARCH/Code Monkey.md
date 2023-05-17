@@ -5,6 +5,9 @@ Link
 Code Monkey
 https://app.codemonkey.com/parent/dashboard/2XVEEe
 
+Benefits of Role Play in Early Years
+https://www.twinkl.com/blog/benefits-of-role-play-games-in-early-years
+
 </p>
 
 Summary
@@ -24,7 +27,21 @@ Questions and Thoughts Based on little RESEARCH
             figure in our lives and thank them. In our game the main character is getting presents for their loved 
             ones. You can choose the sprite you would like to be your main character.This sprite will collect 
             two presents and give them to their loved ones.
-    2. 
+        Children are naturally inclined to engage in role-play, and games of ‘make-believe’ and ‘pretend’ 
+        provide so many more benefits to our children’s development than just fun. Whether it’s occupational 
+        role-play, fantastical role-play, or just enacting situations from daily life, role-play allows our 
+        children to explore their ideas about the world in a safe space. Whether they’re pretending to be an 
+        alien from outer space, a parent, or a mischievous pirate sailing the seven seas, children are trying 
+        out different scenarios in order to develop crucial skills in communication, problem-solving, and expanding 
+        their social-emotional skills by working in a team.
+        Empathy 
+        Creativity and fantasy
+        Allows children to process events and emotions in a safe space
+        Helps social-emotional development
+        Literacy
+        Maths
+        Physical Development
+        
         
 
 
