@@ -10,9 +10,9 @@ https://www.getepic.com/
 Summary
 ===============
         The key idea is to provide electric book for kids to listen and read. Parents could read it with kids
-    at the same time.
-        The book content is fascinating and attractive even to adult. The audio is also very amazed and funny. 
+    at the same time. The book content is fascinating and attractive even to adult. The audio is also very amazed and funny. 
     For generating similar contents with AI, I believe there is needs to finetune the model.
+        Main selling point should be reading stories?
 
 Questions and Thoughts Based on little RESEARCH
 ===============
@@ -30,11 +30,4 @@ Questions and Thoughts Based on little RESEARCH
             3. improve kids creativity and imagination
             4. Given kids moral lessons. 
             5. improve kids language skills
-        4. I don't see AI could write the whole kids story book with the same quality as human, which includes
-            stories, images, contents organization, and audio. What could AI do here?
-            
-
-        
-
-Creativity
-==============
+        4. story books have good enough quality and parents don't need to buy infinite amount of books.

@@ -44,8 +44,4 @@ Questions and Thoughts Based on little RESEARCH
                     a child captures the abilities to place things in the right spots and sort colors that go 
                     together. Through lego education, children also learn the name of colors and much more.
 
-
-
-Creativity
-==============
     

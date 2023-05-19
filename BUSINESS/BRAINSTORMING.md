@@ -17,4 +17,5 @@ Creativity
 ===============
 1. V-tuber that communicate with the users, users provide stories guideline, V-tuber read it through, 
    discuss the possibilities of different story line, etc.
-2. 
+2. 从无到有，从虚无创造世界。设计一个东西他是什么都没有的，但是用AI创造有。UI设计一开始什么都没有，之后由孩子设计这个有。
+3. 通过一张照片，生成一个故事。（通过小孩子的画作，生成一个故事）
