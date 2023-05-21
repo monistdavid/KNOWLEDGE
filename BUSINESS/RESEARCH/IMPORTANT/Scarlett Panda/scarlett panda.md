@@ -9,14 +9,21 @@ https://www.scarlettpanda.com/
 
 Summary
 ===============
-        This software helps to write a kid story with a single plot line. 
-        This software emphasize about reading. 
+    This software helps to write a kid story with a single plot line. 
+    This software emphasize about reading. 
 
 
 Questions and Thoughts Based on little RESEARCH
 ===============
-        1. 
-
+    1. what's the pros and cons between scarlett panda created book with regular story book (epic)?
+        Pros
+            a. You can create the story book with your own story line, your own characters, names, objects, etc.
+            b. You can have many different stories every day.  (Weak)
+        Cons
+            a. The stories are not as good as the regular story book (Epic).
+            b. it cannot read it itself (No audio book yet)
+            c. You need to come up with the story plot line yourself.
+            d. 
 
 
 

@@ -5,8 +5,8 @@ Make Kids Dream Come True
 Keywords
 ===============
 1. Creative
-2. Interactive
-3. Infinite
+2. Interactive (Social, Community, kids drawing can be used as story starter)
+3. Infinite (Infinite Possibilities, Infinite Extended Stories)
 4. Drawing
 
 Learn
@@ -24,3 +24,4 @@ Creativity
 6. 每一个故事其实都可以成为一个游戏，孩子创作，可以通通成为现实。
 7. 可以用一条故事主线，联系起来所有的孩子，这里可以穿插中国文化元素。 
    （这个网站只有一个故事，你能看到的是每周的故事更新，看到别人的创意，你可以给对方鼓励，支持，social interaction）
+8. 可以卖自己的故事，小孩子写的故事可以被publish，看得人多，他自己也能赚钱or credit
