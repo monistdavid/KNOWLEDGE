@@ -5,6 +5,9 @@ Link
 25 Awesome Story Starters for Kids
 https://mamateaches.com/story-starters-for-kids/
 
+Writing Prompts for Kids #1: Dragon Invasion 🐲
+https://www.youtube.com/watch?v=XLPd_pegK38
+
 </p>
 
 Summary
