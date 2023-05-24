@@ -2,9 +2,8 @@ Link
 ===============
 <p>
 
-Once Upon a Bot
-https://onceuponabot.com/
-https://www.futurepedia.io/tool/once-upon-a-bot
+PicTales (Generate Stories from your favourite images)
+https://pictales.online/
 
 </p>
 

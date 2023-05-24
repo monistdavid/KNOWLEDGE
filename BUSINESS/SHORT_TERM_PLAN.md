@@ -6,4 +6,4 @@
 ===============
 1. finish the business plan
 2. further study the important products/concepts
-3. Meet 5 people to talk about the business plan and idea
+3. Meet 5 people to talk about the business plan and idea 
