@@ -4,10 +4,10 @@ Make Kids Dream Come True
 
 Keywords
 ===============
-1. Creative
-2. Interactive (Social, Community, kids drawing can be used as story starter)
+1. Creative (AI is good at making something from 1 to 1000, so kids can spend more time on thinking new stuff)
+2. Interactive (Social, Community, kids' drawing can be used as story starter)
 3. Infinite (Infinite Possibilities, Infinite Extended Stories)
-4. Drawing
+5. Valuable (Should make AI generated stories be valuable)
 
 Learn
 ===============
