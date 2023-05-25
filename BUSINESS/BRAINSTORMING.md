@@ -7,11 +7,13 @@ Keywords
 1. Creative (AI is good at making something from 1 to 1000, so kids can spend more time on thinking new stuff)
 2. Interactive (Social, Community, kids' drawing can be used as story starter)
 3. Infinite (Infinite Possibilities, Infinite Extended Stories)
-5. Valuable (Should make AI generated stories be valuable)
+4. Valuable (Should make AI generated stories be valuable)
 
-Learn
+To Learn
 ===============
 1. how to live with AI will be one of the biggest challenges and lessons for human beings.
+2. further steps/deeper thoughts from kids. (interactive games or chats to lead children to think deeper)
+3. 
 
 Creativity
 ===============
@@ -28,4 +30,6 @@ Creativity
 
 Advantage
 ===============
-1. 
+1. Chinese Market in America
+2. Korean Market in America
+3. 
