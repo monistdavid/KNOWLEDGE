@@ -16,4 +16,6 @@ Questions and Thoughts Based on little RESEARCH
     1. automatic external information structuring by intelligent assistance software can protect knowledge 
         workers from information overload by lightening their cognitive load and, thus, help improve cognitive
         performance.
+        1. have a assistant to help manage the information, filter out the trash info automatically.
+        2. have a assistant to help organize the information.
         
