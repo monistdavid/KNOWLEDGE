@@ -7,7 +7,8 @@ Keywords
 1. Creative (AI is good at making something from 1 to 1000, so kids can spend more time on thinking new stuff)
 2. Interactive (Social, Community, kids' drawing can be used as story starter)
 3. Infinite (Infinite Possibilities, Infinite Extended Stories)
-4. Valuable (Should make AI generated stories be valuable)
+4. Valuable (Should make AI generated stories be valuable, add value to the book, 
+   instead of generating book with AI)
 
 To Learn
 ===============
@@ -32,4 +33,17 @@ Advantage
 ===============
 1. Chinese Market in America
 2. Korean Market in America
-3. 
+
+
+Critical Thinking
+===============
+   1. INFINITE is one of the key features of AI generate images. Infinite styles, infinite numbers, 
+   infinite possibilities.
+      1. Creator needs to generate infinitely dog images, different styles. 
+      2. pictures website needs infinitely dog images, different styles. https://www.pexels.com/
+   2. work with the pet artist to provide inspirations
+   3. work with the pet clothing industry, to see how a dog could be dressed like
+   4. pets with family, pets with kids maybe is a good focus
+   5. pets generate images automatically, select those good ones that could review by the owner
+   6. text with image, testimonies with images, stories with images
+   7. AIGC main direction is similar to using machine make to substitute hand make. 
