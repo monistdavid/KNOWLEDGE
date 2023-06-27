@@ -9,3 +9,7 @@
 5. AI could be the UI tester?
 6. If no one is naming those weird terms, we could easily understand most part of the papers.
 7. Gravity seems influence the physical forms of us in earth, what could gravity influence the neuron network?
+8. AIGC is for personal, when the works by original author or artist are completed or not yet ready, people 
+   use AI to generate similar theme's work. 
+9. Novel recommender, a AI could read through all the books and give you the most valuable and accurate
+   recommendation. 
