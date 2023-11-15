@@ -47,6 +47,16 @@ Questions and Thoughts Based on little RESEARCH
         2. If the contrastive learning on background helps improving the performance of the model. Does the contrastive
             on object detection itself help? For example, use dog as a postive exmaple for dog, cat then as a negative
             example. 
+    4. pros and cons of IOU, any alternatives?
+        Pros: 
+            1. simple and intuition
+            2. balanced measurement method
+        Cons:
+            1. it doesn't give the error a weight, when the  IOU have some small error, it just says the error is big
+                or small based on the math, however, some of the objects might be a lot different even though their
+                IOU is similar
+        GIOU, DIOU, CIOU: Generalized IOU (GIOU), Distance IOU (DIOU), and Complete IOU (CIOU) 
+    5. 
             
 
 Summary
