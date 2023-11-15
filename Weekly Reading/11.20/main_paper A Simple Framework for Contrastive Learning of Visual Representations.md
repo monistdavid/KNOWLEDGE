@@ -4,6 +4,8 @@ Link
 
 A Simple Framework for Contrastive Learning of Visual Representations
 https://arxiv.org/pdf/2002.05709.pdf
+https://github.com/google-research/simclr
+
 
 </p>
 
