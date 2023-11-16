@@ -64,7 +64,16 @@ Questions and Thoughts Based on little RESEARCH
     6. convolutional layer and fully connected layer
         convolutional layer: extract and generalize features, preserving spatial relationships
         fully connected layers: classifiers
-            
+    7. extensive data augmentation
+        Extensive data augmentation refers to the process of applying a wide range of transformations to the 
+        training data to create new and varied examples.
+    8. solution for imbalanced data:
+        in general: Undersampling methods eliminate the majority class instances in the data to make the data more 
+                    balanced. 
+                    In oversampling, the goal is to increase the count of minority class instances to match it with 
+                    the count of actual majority class instances.
+        can pretraing on model could help reducing the imbalanced data problem when training a new model
+
 
 Summary
 ===============
