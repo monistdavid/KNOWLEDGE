@@ -16,6 +16,6 @@ Understand the question
 Summary
 ===============
 
-        This paper talks about what is imbalanced data and how to deal with it. Their are mainly three
-    different methods: undersampled, oversampled and hybrid method.
+        This paper talks about a way to deal with the imbalanced data. Connect the k nearest neighbors of every single
+    nodes. Put one or more nodes on the each of these connected lines.
         

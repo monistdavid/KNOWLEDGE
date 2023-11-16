@@ -74,11 +74,11 @@ Questions and Thoughts Based on little RESEARCH
                     the count of actual majority class instances.
         can pretraing on model could help reducing the imbalanced data problem when training a new model
 
-
 Summary
 ===============
 
 
 Creativity
 ==============
-        
+
+    1. what if the feature space is not a rectangle?
