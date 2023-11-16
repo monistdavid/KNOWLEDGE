@@ -56,7 +56,14 @@ Questions and Thoughts Based on little RESEARCH
                 or small based on the math, however, some of the objects might be a lot different even though their
                 IOU is similar
         GIOU, DIOU, CIOU: Generalized IOU (GIOU), Distance IOU (DIOU), and Complete IOU (CIOU) 
-    5. 
+    5. For each of the bounding box we try to detect the object, we calculate the  class-specific confidence scores 
+        for each box. Do they all have the same weight?
+        1. it seems like given certain component more weight will give the model a better performance
+            in certain task. For example, if more weight on (Pr(Classi | Object)), then it does better at 
+            making accurate prediction; however, it might be bad on localization.
+    6. convolutional layer and fully connected layer
+        convolutional layer: extract and generalize features, preserving spatial relationships
+        fully connected layers: classifiers
             
 
 Summary
