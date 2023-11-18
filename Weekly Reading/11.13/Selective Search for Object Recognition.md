@@ -10,9 +10,12 @@ http://www.huppelen.nl/publications/selectiveSearchDraft.pdf
 Understand the question
 ===============
 
+    Object Localization
+        Localize the object and draw the bounding box is an important step in object recognition
+
 
 Summary
 ===============
-
+    
         
         

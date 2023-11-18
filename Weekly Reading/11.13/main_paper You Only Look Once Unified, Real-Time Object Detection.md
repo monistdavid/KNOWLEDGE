@@ -73,6 +73,23 @@ Questions and Thoughts Based on little RESEARCH
                     In oversampling, the goal is to increase the count of minority class instances to match it with 
                     the count of actual majority class instances.
         can pretraing on model could help reducing the imbalanced data problem when training a new model
+    9. why not using a region that precisely match the space?
+        1. Computational Simplicity: Rectangular bounding boxes are much simpler to compute and work with than 
+            arbitrary shapes. They are defined by just two points (the top-left and bottom-right corners) or by 
+            a center point with width and height. This simplicity speeds up both the detection process and the 
+            subsequent processing steps.
+        2. Standardization for Classification: Most object detection systems, especially those using machine 
+            learning, require standardized input shapes and sizes. Rectangular boxes can easily be resized to a 
+            consistent input size for a classifier, whereas irregular shapes would require more complex and 
+            computationally expensive preprocessing.
+        3. Sufficient for Most Applications: For many applications, rectangular bounding boxes provide sufficient 
+            accuracy in terms of locating and identifying objects within an image. While they may include some 
+            background along with the object, this is often acceptable for the purposes of detection and classification.
+        4. Algorithmic Constraints: Algorithms like selective search use image segmentation techniques that 
+            are more readily adapted to creating rectangular regions. Extending these to accurately delineate 
+            irregular object shapes would add significant complexity and computational cost.
+        5. Post-processing Flexibility: Rectangular boxes provide a consistent format that is easy to work 
+        with in post-processing stages, such as non-maximum suppression, where overlaps between boxes are calculated.
 
 Summary
 ===============
