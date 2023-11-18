@@ -82,3 +82,5 @@ Creativity
 ==============
 
     1. what if the feature space is not a rectangle?
+    2. What if the anchor (bounding box) isn't a rectangle but a line that follows the shape of the object, 
+        such as a person-shaped outline for a person object?
