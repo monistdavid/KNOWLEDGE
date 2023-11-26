@@ -47,6 +47,23 @@ Questions and Thoughts Based on little RESEARCH
         tend to learn more general patterns.
         Stability in Optimization: Adding weight decay can also stabilize the training process, especially when 
         using large learning rates.
+    4. from the paper, the author mentioned:  unsupervised learning benefits more from bigger models than its 
+        supervised counterpart
+        Since the unsupervised learning is not using the lable, it is less likely it will overfit the data. So it 
+        a deeper model could actually help it understand more about the generalized features of the data. The more
+        data the deeper model, the better for the unsupervised learning.
+
+        Capacity Utilization:
+        Larger models with more parameters could overfit the training data if those parameters were fully utilized 
+        to capture every detail, including noise. However, the nature of unsupervised learning tasks often means that 
+        not all parameters are needed to achieve the learning objective.
+        This underutilization of capacity can be a form of implicit regularization because the model doesn't fully 
+        adapt to the specifics of the training set. Instead, it maintains a level of generality in the features it 
+        learns.
+    5. from the paper, the author mentioned:  the hidden layer before the projection head is a better representation 
+        than the layer after.
+        It is not actually more information, the better? The main gola is to discriminate, but why isn't the more 
+        information the better?
 
 Summary
 ===============
