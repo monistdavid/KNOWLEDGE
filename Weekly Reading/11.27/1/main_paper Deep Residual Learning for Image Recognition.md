@@ -5,6 +5,7 @@ Link
 Deep Residual Learning for Image Recognition
 https://arxiv.org/pdf/1512.03385.pdf
 https://www.youtube.com/watch?v=GWt6Fu05voI
+https://www.youtube.com/watch?v=kYB8IZa5AuE
 
 </p>
 
@@ -23,7 +24,10 @@ Questions and Thoughts Based on little RESEARCH
     1. By using the identity mapping, we could make sure at least the deeper network could perform the same as the 
         shallower network. Then why there will be a degradation problem?
         firstly, identity mapping is hard to train as well. 
-        
+    2. why transforming input x to a same dimension as F(x) will not influence the info from x?
+        because it is under a linear transformation. The property of linear transformation is:
+            1. all lines remain lines
+            2. the origin remains fixed 
 
 
 Summary
