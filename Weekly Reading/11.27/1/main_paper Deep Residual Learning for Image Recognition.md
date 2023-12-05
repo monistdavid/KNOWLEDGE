@@ -28,6 +28,11 @@ Questions and Thoughts Based on little RESEARCH
         because it is under a linear transformation. The property of linear transformation is:
             1. all lines remain lines
             2. the origin remains fixed 
+    3. We also notice that the deeper ResNet has smaller magnitudes of responses
+        the residual function is calculating the differnce between the desired output and input, an identity mapping
+        is just the 0 of the output of this function. So based on the identity mapping, the function tends to give
+        small magnitudes of responses.
+        
 
 
 Summary
