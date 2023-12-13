@@ -10,18 +10,14 @@ https://arxiv.org/pdf/1804.08838.pdf
 Keyword
 ===============
 
-    Transfer Learning
-    Transfer learning is a technique in machine learning where a model developed for one task is reused as the 
-    starting point for a model on another task. It's a popular approach in various fields of AI, especially in 
-    situations where labeled data for a specific task is scarce or when training a model from scratch would 
-    require a significant amount of computational power and time.
+    OBJECTIVE LANDSCAPES
+    "Objective landscapes" in the context of neural networks and machine learning refer to a conceptual and 
+    mathematical representation of the optimization problem that a learning algorithm tries to solve. 
 
 Summary
 ===============
 
-        This paper provides a efficient way to do fine-tuning on the pre-trained model. The key idea is to add 
-    few trainable parameters to the pre-trained model and then do fine-tuning. Thus it remains the main parameters
-    unchanged, yielding a high degree of parameter sharing.
+        This paper studies the intrinsic dimension of a neuron network that is used to solve certain problems. 
+    By randomly select a subspace in the network and gradually increase its parameters to get the intrinsic dimension
+    of the network. 
 
-
-        
